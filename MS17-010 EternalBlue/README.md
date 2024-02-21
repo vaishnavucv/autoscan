@@ -11,7 +11,7 @@ This script utilizes `nmap` to scan for the MS17-010 vulnerability, specifically
 
 1. Ensure `nmap` is installed on your system.
 2. Run the script from your terminal.
-3. wget the script wget [https://raw.githubusercontent.com/vaishnavucv/autoscan/main/MS17-010%20EternalBlue/ms17-010-scanner.sh](https://raw.githubusercontent.com/vaishnavucv/autoscan/main/MS17-010%20EternalBlue/ms17-010-scanner.sh)
+3. wget the script [https://raw.githubusercontent.com/vaishnavucv/autoscan/main/MS17-010%20EternalBlue/ms17-010-scanner.sh](https://raw.githubusercontent.com/vaishnavucv/autoscan/main/MS17-010%20EternalBlue/ms17-010-scanner.sh)
 4. Run `./ms17-010-scanner.sh`
 5. When prompted, enter the IP address you wish to scan.
 6. Next, enter a file name for the scan report. This file will be created in the directory from which you run the script.
